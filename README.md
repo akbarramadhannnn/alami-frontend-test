@@ -9,9 +9,3 @@
 - run ```npm install```
 - run ```npm start```
 - open ```http://localhost:3000``` to view it in your browser.
-
-## Note
-- List Seller Page
-- Edit Seller Page
-- Edit Product Page
-- Pagination
